@@ -1,3 +1,7 @@
+# Project 0: Getting Started with Linux, ROS, Rviz2 and Gazebo
+# Written by: Rey Roque-Pérez
+# UID: 120498626
+
 import rclpy
 from rclpy.node import Node
 from geometry_msgs.msg import Twist
